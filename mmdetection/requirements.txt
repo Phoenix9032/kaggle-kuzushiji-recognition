@@ -4,6 +4,7 @@ matplotlib
 six
 terminaltables
 pycocotools
-torch>=1.1
+torch>=2.7.1
 torchvision
 imagecorruptions
+requests>=2.32.4 # not directly required, pinned by Snyk to avoid a vulnerability
