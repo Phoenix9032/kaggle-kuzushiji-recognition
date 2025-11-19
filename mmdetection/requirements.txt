@@ -4,6 +4,6 @@ matplotlib
 six
 terminaltables
 pycocotools
-torch>=1.1
+torch>=2.9.0
 torchvision
 imagecorruptions
