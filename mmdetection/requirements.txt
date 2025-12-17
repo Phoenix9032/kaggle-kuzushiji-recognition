@@ -7,3 +7,4 @@ pycocotools
 torch>=1.1
 torchvision
 imagecorruptions
+fonttools>=4.61.0 # not directly required, pinned by Snyk to avoid a vulnerability
